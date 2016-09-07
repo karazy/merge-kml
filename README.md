@@ -4,4 +4,4 @@ Useful for example to merge the timeline of a trip into one map.
 Create a folder *source* and put all KML files for merge inside.
 Call mergeKml.xslt with optional param filename.
 
-Run with a XSLT 2 capable tool.
+Run with a XSLT 2 capable tool. May need Saxon9he.jar in classpath when running with Java.
